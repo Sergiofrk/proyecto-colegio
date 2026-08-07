@@ -1,9 +1,30 @@
 # Proyecto Colegio
 
+## Descripción
+
 Proyecto desarrollado para crear un sistema de apoyo a la administración de un colegio, con el objetivo de facilitar la gestión de estudiantes, docentes y procesos administrativos.
 
-Autor: Sergio Orellana
+## Funcionalidades planeadas
 
-## Desarrollo del proyecto
+- Registro de estudiantes.
+- Registro de docentes.
+- Administración de cursos.
+- Consulta de información académica.
+- Gestión de usuarios.
 
-Este proyecto se encuentra en una etapa inicial de desarrollo. En esta versión se plantea la estructura base para futuras funcionalidades, como el registro de estudiantes, docentes, cursos y la consulta de información académica.
+## Tecnologías
+
+- Java
+- Git
+- GitHub
+- Visual Studio Code
+
+## Cómo clonar el proyecto
+
+```bash
+git clone https://github.com/Sergiofrk/proyecto-colegio.git
+```
+
+## Autor
+
+Sergio Orellana
